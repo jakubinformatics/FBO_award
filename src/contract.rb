@@ -36,7 +36,8 @@ class Contract
   end
 
   def contractor_awarded_name
-    find_content_with('dnf_class_values_procurement_notice__contractor_awarded_name__widget')
+    return find_content_with('dnf_class_values_procurement_notice__contractor_awarded_name__widget') unless find_content_with('dnf_class_values_procurement_notice__contractor_awarded_name__widget').empty?
+    return find_content_with('dnf_class_values_procurement_notice__contractor_awardee_text__widget') unless find_content_with('dnf_class_values_procurement_notice__contractor_awardee_text__widget').empty?
   end
 
   def contractor_awarded_address
@@ -67,8 +68,32 @@ class Contract
     find_content_with('dnf_class_values_procurement_notice__naics_code__widget')
   end
 
+  def title
+    document.css("div.agency-header").css('h2').text().strip
+  end
+
+  def agency
+    agent_body[0]
+  end
+
+  def office
+    agent_body[1]
+  end
+
+  def location
+    agent_body[2]
+  end
+
   private
   def find_content_with(matcher)
     document.css("div##{matcher}").text().strip
+  end
+
+  def agent_body
+    doc = document.css("div.agency-name")
+    doc.search('br').each do |n|
+      n.replace("\n")
+    end
+    doc.text.split("\n")
   end
 end

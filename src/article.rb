@@ -43,7 +43,11 @@ class Article
       end
       contract_award_number = database.escape(contract.contract_award_number)
       # contract_dollar_amount
-      amount = contract.contract_dollar_amount.match(Article.amount_math)['amount'].scan(/[.0-9]/).join().to_f
+      if contract.contract_dollar_amount.match(Article.amount_math).nil?
+        amount = 0
+      else
+        amount = (contract.contract_dollar_amount.match(Article.amount_math))['amount'].scan(/[.0-9]/).join().to_f
+      end
       contractor_name = database.escape(contract.contractor_awarded_name)
       duns = database.escape(contract.contractor_awarded_dunus)
       contractor_address = database.escape(contract.contractor_awarded_address)
@@ -61,8 +65,14 @@ class Article
       set_aside = database.escape(contract.set_aside)
       classification_code = database.escape(contract.classification_code.match(Article.classification_match)['code'])
       naics_code = database.escape(contract.naics_code.match(Article.naics_code)['code'])
+
+      title = database.escape(contract.title)
+      agency = database.escape(contract.agency)
+      office = database.escape(contract.office)
+      location = database.escape(contract.location)
+
       site_url = "https://www.fbo.gov/index.php#{url}"
-      query = "INSERT INTO fbo_awards (solicitation_number, contract_award_date, contract_award_number, amount, contractor_name, duns, contractor_address, synopsis, posted_date, response_date, set_aside, classification_code, naics_code, url) VALUES ('#{solicitation_number}', '#{contract_award_date}', '#{contract_award_number}', '#{amount}', '#{contractor_name}', '#{duns}', '#{contractor_address}', '#{synopsis}', '#{posted_date}', '#{response_date}', '#{set_aside}','#{classification_code}', '#{naics_code}', '#{site_url}');"
+      query = "INSERT INTO fbo_awards (solicitation_number, contract_award_date, contract_award_number, amount, contractor_name, duns, contractor_address, synopsis, posted_date, set_aside, classification_code, naics_code, url, title, agency, office, location) VALUES ('#{solicitation_number}', '#{contract_award_date}', '#{contract_award_number}', '#{amount}', '#{contractor_name}', '#{duns}', '#{contractor_address}', '#{synopsis}', '#{posted_date}', '#{set_aside}','#{classification_code}', '#{naics_code}', '#{site_url}', '#{title}', '#{agency}', '#{office}', '#{location}');"
       database.query(query)
 
     rescue => exception
