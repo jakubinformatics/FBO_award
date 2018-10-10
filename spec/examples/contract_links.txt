@@ -1,0 +1,2142 @@
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><title>
+	Contracts
+</title><meta id="MetaDescription" name="DESCRIPTION" content="Official website for U.S. DEPARTMENT OF DEFENSE" /><meta id="MetaKeywords" name="KEYWORDS" content="Defense,Department,DoD,Secretary,Deputy Secretary,Joint Chief,United States,Military,Government,Pentagon" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/DesktopModules/ArticleCS/module.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/DesktopModules/ArticleCSDashboard/module.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/DesktopModules/SharedLibrary/Plugins/sidr/stylesheets/jquery.sidr.bare.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/DefenseGOV/skin.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/DefenseGOV/container.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/Portals/1/portal.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=613" type="text/css" rel="stylesheet"/><link href="/desktopmodules/ArticleCS/styles/DefenseGOV/style.css?cdv=613" type="text/css" rel="stylesheet"/><script src="/Resources/libraries/jQuery/01_09_01/jquery.js?cdv=613" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/01_02_01/jquery-migrate.js?cdv=613" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_11_03/jquery-ui.js?cdv=613" type="text/javascript"></script><link id="RobotoSlab" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600|Roboto+Condensed:400,700" /><link rel='SHORTCUT ICON' href='/Portals/1/favicon.ico?ver=2015-05-19-143319-927' type='image/x-icon' />
+<!--[if IE 8 ]><script type="text/javascript">jQuery("html").addClass("ie ie8");</script><![endif]-->
+<!--[if IE 9 ]><script type="text/javascript">jQuery("html").addClass("ie ie9");</script><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/Portals/_default/Skins/DefenseGOV/ie.css" /><![endif]-->
+<!--[if lte IE 8]><script src="/DesktopModules/SharedLibrary/Plugins/Respond/js/respond.min.js"></script><![endif]-->
+
+<script type="text/javascript">
+;(function (g) {
+    var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+            aex = {
+                "src": "//gateway.answerscloud.com/defense-gov/production/gateway.min.js",
+                "type": "text/javascript",
+                "async": "true",
+                "data-vendor": "acs",
+                "data-role": "gateway"
+            };
+    for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
+   h.appendChild(am);
+    g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
+})(window);
+</script>
+<script  src="https://www.google-analytics.com/ga.js" ></script><script  src="/DesktopModules/SharedLibrary/Plugins/GoogleAnalytics/Universal-Federated-Analytics-2.0.js?agency=DOD&subagency=NDU&dclink=true"  id="_fed_an_ua_tag" ></script><style type="text/css">header .links li span { color:#666666 }
+header .links li:hover span { color:#ffffff }
+</style><meta name="viewport" content="width=device-width,initial-scale=1" /></head>
+<body id="Body">
+    
+    <form method="post" action="/News/Contracts/" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV3TCFnXTS7P-wA0nLEUGmcyzlZ2rSfW3WU-B7latwQksGyGgLU1&amp;t=636396543000000000" type="text/javascript"></script>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a1dfc24a8-f1c6-47eb-a669-f28ac03160f2%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="UMlokBqEC8MaAVWONLN2TWPmaTFUxdTa/+bCEUi90/ixb4gQ+YTdKpxOo/LnDiDdZBBVRgxtWlsO8ug55b9scxNMtVEiu3sAGPTRN2KAg3nqwJd44aW1GfqGwVESdYmmEniDikugKmEN36cfoODThIdAI+FXx3Hgd/mQJ3n3wN3ghSdOFZvyGQV2WjqxlR8FKEq2+CuO3ZQx5SofwcZysTUtF/2MMKMrC6NBj7txnZ4cyZW/TbWJZqw+q8zRJF2aAIi3qA==" />
+</div><script src="/js/dnn.modalpopup.js?cdv=613" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=613" type="text/javascript"></script><script src="/Portals/_default/Skins/DefenseGOV/resources/js/skin.js?cdv=613" type="text/javascript"></script><script src="/js/dnncore.js?cdv=613" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/sidr/jquery.sidr.js?cdv=613" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=613" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/ArticleCS.js?cdv=613" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=613" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', ['tdnn$ctr534$Article$desktopmodules_articlecs_article_ascx$UpdatePanel1','dnn_ctr534_Article_desktopmodules_articlecs_article_ascx_UpdatePanel1'], [], [], 300, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+<!--CDF(Javascript|/Portals/_default/Skins/DefenseGOV/resources/js/skin.js?cdv=613)-->
+
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+initializeSkin();
+});
+
+</script>
+
+<script type="text/javascript">
+var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense.gov","SiteSubTitle":"","aid":"dod-search","IsSecureConnection":true,"IsBackEnd":false,"IsAuthenticated":false,"SearchDomain":"search.defense.gov","SiteUrl":"https://www.defense.gov/","LastLogin":null,"IsLastLoginFail":false,"IncludePiwik":true,"PiwikSiteID":4,"SocialLinks":{"Facebook":{"Url":"","Window":""},"Twitter":{"Url":"","Window":""},"YouTube":{"Url":"","Window":""},"Flickr":{"Url":"","Window":""},"Pintrest":{"Url":"","Window":""},"GooglePlus":{"Url":"","Window":""},"Instagram":{"Url":"","Window":""},"Blog":{"Url":"","Window":""},"RSS":{"Url":"","Window":""},"Podcast":{"Url":"","Window":""},"Email":{"Url":"","Window":""},"LinkedIn":{"Url":"","Window":""}},"SiteLinks":{"DODCIO":{"Url":"","Window":""},"COI":{"Url":"","Window":""},"Library":{"Url":"","Window":""},"C2":{"Url":"","Window":""},"Links":{"Url":"","Window":""},"Privacy":{"Url":"","Window":""},"LinkDisclaimer":{"Url":"","Window":""},"DODInspector":{"Url":"","Window":""},"RecoveryAct":{"Url":"","Window":""},"DOD508":{"Url":"","Window":""},"DefenseGov":{"Url":"","Window":""},"Join":{"Url":"","Window":""},"DODSites":{"Url":"","Window":""},"Careers":{"Url":"","Window":""},"WebPolicy":{"Url":"","Window":""},"NoFearAct":{"Url":"","Window":""},"USAGov":{"Url":"","Window":""},"News":{"Url":"","Window":""},"Features":{"Url":"","Window":""},"About":{"Url":"","Window":""},"Leadership":{"Url":"","Window":""},"JointStaff":{"Url":"","Window":""},"Resources":{"Url":"","Window":""},"FOIA":{"Url":"","Window":""},"SiteMap":{"Url":"","Window":""},"ContactUs":{"Url":"","Window":""},"TodayInDOD":{"Url":"","Window":""},"TopIssues":{"Url":"","Window":""},"PhotosVideos":{"Url":"","Window":""},"PlainWritingAct":{"Url":"","Window":""},"Limitations":{"Url":"","Window":""},"DVIDS":{"Url":"","Window":""}},"LogoffTimeout":10500000};
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","logo":"http://www.defense.gov/Portals/1/Images/dodlogo.png?ver=2015-04-10-161041-127","name":"U.S. DEPARTMENT OF DEFENSE","url":"http://www2.defense.gov/","sameAs":[]}</script>
+
+
+
+<div id="sidr" class="sidr left side-menu">
+    <div class="inner">
+        <div class="main">
+            <div class="bar-header">
+                <img src="/portals/_default/skins/DefenseGOV/Resources/img/seal.svg" alt="U.S. DEPARTMENT OF DEFENSE" title="U.S. DEPARTMENT OF DEFENSE" class="logo" />
+                <span class="title">Department of Defense</span>
+                <div class="close-side"><a title="Close" href="#"></a></div>
+            </div>
+            <div class="mobile-search">
+                <div class="skin-search-box">
+                    <label for="mobileSearch" class="visuallyhidden">Search Defense.gov: </label>
+                    <input type="text" name="mobileSearch" class="skin-search-input-ph" title="Search Defense.gov" />
+                    <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                </div>
+            </div>
+            <nav class="nav-main">
+<ul class="nav">
+	    
+    <li class=" top-level ">
+    
+        <a href="https://www.defense.gov/" tabindex="0" target="" >Home
+		</a>
+    
+    </li>
+
+
+
+    <li class="dropdown  top-level ">
+    
+        <a href="https://www.defense.gov/About/" tabindex="0" target="" aria-expanded="false">About<span class="fa fa-chevron-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Senior-Defense-Officials/" target="" tabindex="0" aria-expanded="false">Biographies<span class="fa fa-chevron-down" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Senior-Defense-Officials/" target="" tabindex="0" >Senior Defense Officials
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Senior-Defense-Appointees/" target="" tabindex="0" >Senior Appointees/Nominees
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Office-of-the-Secretary-of-Defense/" target="" tabindex="0" >Office of the Secretary of Defense
+</a>    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/About/Insignias/" target="" tabindex="0" aria-expanded="false">Insignias<span class="fa fa-chevron-down" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Insignias/Officers/" target="" tabindex="0" >Officers
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Insignias/Enlisted/" target="" tabindex="0" >Enlisted
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/DoD-101/" target="" tabindex="0" >DoD 101
+</a>    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/About/Military-Departments/" target="" tabindex="0" aria-expanded="false">Military Departments<span class="fa fa-chevron-down" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="http://www.jcs.mil" target="_blank" tabindex="0" >Joint Chiefs of Staff
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.army.mil" target="_blank" tabindex="0" >U.S. Army
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.marines.mil" target="_blank" tabindex="0" >U.S. Marine Corps
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.navy.mil" target="_blank" tabindex="0" >U.S. Navy
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.af.mil" target="_blank" tabindex="0" >U.S. Air Force
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.nationalguard.mil" target="_blank" tabindex="0" >National Guard
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.uscg.mil" target="_blank" tabindex="0" >U.S. Coast Guard
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Military-Departments/Unified-Combatant-Commands/" target="" tabindex="0" >Unified Combatant Commands
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Military-Departments/Military-Service-Seals/" target="" tabindex="0" >Military Service Seals
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Military-Departments/A-Z-List/" target="" tabindex="0" >A-Z List
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+
+    <li class="dropdown  top-level ">
+    
+        <a href="https://www.defense.gov/Leaders/" tabindex="0" target="" aria-expanded="false">Leaders<span class="fa fa-chevron-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/Leaders/Secretary-of-Defense/" target="" tabindex="0" aria-expanded="false">Secretary of Defense<span class="fa fa-chevron-down" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Biography-View/Article/1055835/james-mattis" target="" tabindex="0" >Biography
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Photo-Gallery/igphoto/2001691152" target="" tabindex="0" >Portrait
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Leaders/Secretary-of-Defense/Defense-Secretary-Speeches/" target="" tabindex="0" >Speeches
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Leaders/Secretary-of-Defense/Defense-Secretary-Transcripts/" target="" tabindex="0" >Transcripts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.flickr.com/photos/secdef" target="_blank" tabindex="0" >Photos
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.dvidshub.net/feature/SecDefJimMattis" target="_blank" tabindex="0" >Videos
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Special-Reports/Travels-with-the-Secretary/" target="" tabindex="0" >Travels
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/Leaders/Deputy-Secretary-of-Defense/" target="" tabindex="0" aria-expanded="false">Deputy Secretary of Defense<span class="fa fa-chevron-down" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Biography-View/Article/1252116/patrick-shanahan/" target="_blank" tabindex="0" >Biography
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Photo-Gallery/igphoto/2001780169" target="_blank" tabindex="0" >Portrait
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Leaders/Deputy-Secretary-of-Defense/Speeches/" target="" tabindex="0" >Speeches
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Leaders/Deputy-Secretary-of-Defense/Transcripts/" target="" tabindex="0" >Transcripts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.flickr.com/photos/depsecdef" target="_blank" tabindex="0" >Photos
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/Leaders/Chairman-of-the-Joint-Chiefs-of-Staff/" target="" tabindex="0" aria-expanded="false">Chairman of the Joint Chiefs of Staff<span class="fa fa-chevron-down" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Biography-View/Article/621329/general-joseph-f-dunford-jr" target="" tabindex="0" >Biography
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Photo-Gallery/igphoto/2001296303" target="" tabindex="0" >Portrait
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Transcripts/Customwho/31004" target="" tabindex="0" >Transcripts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.flickr.com/photos/thejointstaff/" target="_blank" tabindex="0" >Photos
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.dvidshub.net/feature/cjcsjosephdunford" target="_blank" tabindex="0" >Videos
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Special-Reports/Travels-with-the-Chairman/" target="" tabindex="0" >Travels
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/Leaders/Vice-Chairman-of-the-Joint-Chiefs-of-Staff/" target="" tabindex="0" aria-expanded="false">Vice Chairman of the Joint Chiefs of Staff<span class="fa fa-chevron-down" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Biography-View/Article/602766/general-paul-j-selva" target="" tabindex="0" >Biography
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Photo-Gallery/igphoto/2001691188" target="" tabindex="0" >Portrait
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Transcripts/Customwho/31004" target="" tabindex="0" >Transcripts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.flickr.com/photos/vcjcs" target="_blank" tabindex="0" >Photos
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+
+    <li class="dropdown  top-level ">
+    
+        <a href="https://www.defense.gov/News/" tabindex="0" target="" aria-expanded="false">News<span class="fa fa-chevron-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Archive/" target="" tabindex="0" >News Archive
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Face-of-Defense/" target="" tabindex="0" >Face of Defense
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Press-Advisories/" target="" tabindex="0" >Press Advisories
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/News-Releases/" target="" tabindex="0" >News Releases
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Publications/" target="" tabindex="0" >Publications
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Transcripts/" target="" tabindex="0" >Transcripts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Speeches/" target="" tabindex="0" >Speeches
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.defense.gov/casualty.pdf" target="_blank" tabindex="0" >Casualty Status (PDF)
+</a>    
+    </li>
+
+    <li class="active dm  ">
+    
+			<a href="https://www.defense.gov/News/Contracts/" target="" tabindex="0" >Contracts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.dodlive.mil/" target="_blank" tabindex="0" >DoD Live Blog
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/RSS/" target="" tabindex="0" >RSS
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Other-News-Sources/" target="" tabindex="0" >Other News Sources
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+
+    <li class="dropdown  top-level ">
+    
+        <a href="https://www.defense.gov/Photos/" tabindex="0" target="" aria-expanded="false">Photos<span class="fa fa-chevron-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="http://www.defense.gov/Photos/Photo-Gallery?igcategory=Lead%20Photos" target="" tabindex="0" >Photo Gallery
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Photo-Essays/" target="" tabindex="0" >Photo Essays
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Week-in-Photos/" target="" tabindex="0" >Week in Photos
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.dvidshub.net/search?filter%5btype%5d=image" target="_blank" tabindex="0" >DVIDS
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.flickr.com/photos/39955793@N07/" target="_blank" tabindex="0" >DoD Flickr
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.dimoc.mil/search/search.html" target="_blank" tabindex="0" >Imagery Archive
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+
+    <li class="dropdown  top-level ">
+    
+        <a href="https://www.defense.gov/Videos/" tabindex="0" target="" aria-expanded="false">Videos<span class="fa fa-chevron-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/channel1/" target="" tabindex="0" >Live Events
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://defensetv.com/" target="_blank" tabindex="0" >Defense TV
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.dvidshub.net/search?filter[type]=video" target="_blank" tabindex="0" >DVIDS
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+
+    <li class=" top-level ">
+    
+        <a href="https://www.defense.gov/News/Special-Reports/" tabindex="0" target="" >Special Reports
+		</a>
+    
+    </li>
+
+
+
+</ul>
+</nav>
+
+
+        </div>
+        <div class="quick">
+            <div class="quick-toggle">QUICK LINKS<span class="fa fa-plus"></span></div>
+            <ul><li><a href="/Today-in-DoD" title="Detailed schedule of events for DoD Leaders"><span class="text text-link-49">Today in DoD</span></a></li><li><a href="/Resources" title="DoD Resources for Service Members, Civilians, Veterans and Families"><span class="text text-link-50">Resources</span></a></li><li><a href="/News/Contracts" title="DoD contracts valued at $7 million or more"><span class="text text-link-51">Contracts</span></a></li><li><a href="https://kb.defense.gov/" title="Frequently Asked Questions" target="_blank"><span class="text text-link-52">FAQs</span></a></li><li><a href="/Resources/Contact-DoD" title="How to Contact the DoD"><span class="text text-link-53">Contact DoD</span></a></li></ul>
+
+
+        </div>
+        <div class="quick">
+            <div class="quick-toggle">Legal &amp; Administrative<span class="fa fa-plus"></span></div>
+            <ul><li><a href="/Resources/Privacy" title="Details about DoD&#39;s privacy policy, the use of &quot;cookies&quot; and third party websites and applications."><span class="text text-link-55">Privacy & Security</span></a></li><li><a href="/Resources/External-Link-Disclaimer" title="A description of the external links disclaimer for defense.gov."><span class="text text-link-56">Links Disclaimer</span></a></li><li><a href="http://www.dodig.mil/" title="The website of the Office of the Inspector General. " target="_blank"><span class="text text-link-57">Inspector General</span></a></li><li><a href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" title="Details about making information accessible to individuals with disabilities in accordance with Section 508 of the Rehabilitation Act." target="_blank"><span class="text text-link-58">Section 508</span></a></li><li><a href="http://www.dimoc.mil/resources/limitations.html" title="Policies for use of DoD imagery. " target="_blank"><span class="text text-link-59">Imagery Use</span></a></li><li><a href="http://open.defense.gov/Transparency/FOIA.aspx" title="Details about the Freedom of Information Act. " target="_blank"><span class="text text-link-60">FOIA</span></a></li><li><a href="http://prhome.defense.gov/NoFear/" title="Details about DoD&#39;s No FEAR Act. "><span class="text text-link-67">No FEAR Act</span></a></li><li><a href="http://dodcio.defense.gov/DoD-Web-Policy/" title="Details on DoD&#39;s web and internet based policies and procedures." target="_blank"><span class="text text-link-61">Web Policy</span></a></li><li><a href="http://www.esd.whs.mil/DD/ " title="A description of the DoD plain language policy. " target="_blank"><span class="text text-link-62">Plain Writing Act</span></a></li><li><a href="http://open.defense.gov/" title="Details about DoD&#39;s open government plan. " target="_blank"><span class="text text-link-63">Open GOV</span></a></li><li><a href="http://dcmo.defense.gov/Portals/47/Documents/Publications/ASP/FY2016_2018ASP.pdf" title="PDF of DoD&#39;s strategic plan 2015-2018" target="_blank"><span class="text text-link-64">Strategic Plan</span></a></li><li><a href="http://www.acq.osd.mil/osbp/" title="Information from the DoD Office of Small Business Programs. " target="_blank"><span class="text text-link-65">Small Business Act</span></a></li><li><a href="/Site-Index" title="The page structure for the defense.gov website."><span class="text text-link-66">Site Map</span></a></li></ul>
+
+
+        </div>
+    </div>
+</div>
+<div id="overlay"></div>
+<div id="skip-link-holder"><a id="skip-link" href="#skip-target">Skip to main content (Press Enter).</a></div>
+<header id="header">
+    <div class="link-menu hidden-sm hidden-xs">
+        <div class="container-fluid link-menu-inner">
+            <div class="links">
+                <ul><li><a href="/Today-in-DoD" title="Detailed schedule of events for DoD Leaders"><span class="text text-link-49">Today in DoD</span></a></li><li><a href="/Resources" title="DoD Resources for Service Members, Civilians, Veterans and Families"><span class="text text-link-50">Resources</span></a></li><li><a href="/News/Contracts" title="DoD contracts valued at $7 million or more"><span class="text text-link-51">Contracts</span></a></li><li><a href="https://kb.defense.gov/" title="Frequently Asked Questions" target="_blank"><span class="text text-link-52">FAQs</span></a></li><li><a href="/Resources/Contact-DoD" title="How to Contact the DoD"><span class="text text-link-53">Contact DoD</span></a></li></ul>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="main-menu">
+        <div class="container-fluid main-menu-inner">
+            <a href="#sidr" id="simple-menu" type="button" class="hidden-lg hidden-md skin-nav-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="fa fa-bars fa-2x"></span>
+            </a>
+            <div class="skin-md-title hidden-md hidden-lg hidden-xs">
+                <a href="https://www.defense.gov/">
+                    <img src="/portals/_default/skins/DefenseGOV/Resources/img/seal.svg" alt="U.S. DEPARTMENT OF DEFENSE" title="U.S. DEPARTMENT OF DEFENSE" />
+                </a>
+                <a href="https://www.defense.gov/"><span class="skin-md-title-text">Department of Defense</span></a>
+            </div>
+            <div class="skin-xs-title hidden-md hidden-lg hidden-sm">
+                <a href="https://www.defense.gov/"><span class="skin-xs-title-text">Department of Defense</span></a>
+                <div class="logo">
+                    <a href="https://www.defense.gov/">
+                        <img src="/portals/_default/skins/DefenseGOV/Resources/img/seal.svg" alt="U.S. DEPARTMENT OF DEFENSE" title="U.S. DEPARTMENT OF DEFENSE" />
+                    </a>
+                </div>
+            </div>
+            <div class="skin-logo hidden-sm hidden-xs">
+                <a href="https://www.defense.gov/">
+                    <img src="/portals/_default/skins/DefenseGOV/Resources/img/seal.svg" alt="U.S. DEPARTMENT OF DEFENSE" title="U.S. DEPARTMENT OF DEFENSE" />
+                </a>
+            </div>
+            <div class="hidden-sm hidden-xs otnav">
+                <nav class="nav-main">
+<ul class="nav">
+	    
+    <li class=" top-level ">
+    
+        <a href="https://www.defense.gov/" tabindex="0" target="" >Home
+		</a>
+    
+    </li>
+
+
+
+    <li class="dropdown  top-level ">
+    
+        <a href="https://www.defense.gov/About/" tabindex="0" target="" aria-expanded="false">About<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Senior-Defense-Officials/" target="" tabindex="0" aria-expanded="false">Biographies<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Senior-Defense-Officials/" target="" tabindex="0" >Senior Defense Officials
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Senior-Defense-Appointees/" target="" tabindex="0" >Senior Appointees/Nominees
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Office-of-the-Secretary-of-Defense/" target="" tabindex="0" >Office of the Secretary of Defense
+</a>    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/About/Insignias/" target="" tabindex="0" aria-expanded="false">Insignias<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Insignias/Officers/" target="" tabindex="0" >Officers
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Insignias/Enlisted/" target="" tabindex="0" >Enlisted
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/DoD-101/" target="" tabindex="0" >DoD 101
+</a>    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/About/Military-Departments/" target="" tabindex="0" aria-expanded="false">Military Departments<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="http://www.jcs.mil" target="_blank" tabindex="0" >Joint Chiefs of Staff
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.army.mil" target="_blank" tabindex="0" >U.S. Army
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.marines.mil" target="_blank" tabindex="0" >U.S. Marine Corps
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.navy.mil" target="_blank" tabindex="0" >U.S. Navy
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.af.mil" target="_blank" tabindex="0" >U.S. Air Force
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.nationalguard.mil" target="_blank" tabindex="0" >National Guard
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.uscg.mil" target="_blank" tabindex="0" >U.S. Coast Guard
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Military-Departments/Unified-Combatant-Commands/" target="" tabindex="0" >Unified Combatant Commands
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Military-Departments/Military-Service-Seals/" target="" tabindex="0" >Military Service Seals
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Military-Departments/A-Z-List/" target="" tabindex="0" >A-Z List
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+
+    <li class="dropdown  top-level ">
+    
+        <a href="https://www.defense.gov/Leaders/" tabindex="0" target="" aria-expanded="false">Leaders<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/Leaders/Secretary-of-Defense/" target="" tabindex="0" aria-expanded="false">Secretary of Defense<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Biography-View/Article/1055835/james-mattis" target="" tabindex="0" >Biography
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Photo-Gallery/igphoto/2001691152" target="" tabindex="0" >Portrait
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Leaders/Secretary-of-Defense/Defense-Secretary-Speeches/" target="" tabindex="0" >Speeches
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Leaders/Secretary-of-Defense/Defense-Secretary-Transcripts/" target="" tabindex="0" >Transcripts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.flickr.com/photos/secdef" target="_blank" tabindex="0" >Photos
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.dvidshub.net/feature/SecDefJimMattis" target="_blank" tabindex="0" >Videos
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Special-Reports/Travels-with-the-Secretary/" target="" tabindex="0" >Travels
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/Leaders/Deputy-Secretary-of-Defense/" target="" tabindex="0" aria-expanded="false">Deputy Secretary of Defense<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Biography-View/Article/1252116/patrick-shanahan/" target="_blank" tabindex="0" >Biography
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Photo-Gallery/igphoto/2001780169" target="_blank" tabindex="0" >Portrait
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Leaders/Deputy-Secretary-of-Defense/Speeches/" target="" tabindex="0" >Speeches
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Leaders/Deputy-Secretary-of-Defense/Transcripts/" target="" tabindex="0" >Transcripts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.flickr.com/photos/depsecdef" target="_blank" tabindex="0" >Photos
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/Leaders/Chairman-of-the-Joint-Chiefs-of-Staff/" target="" tabindex="0" aria-expanded="false">Chairman of the Joint Chiefs of Staff<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Biography-View/Article/621329/general-joseph-f-dunford-jr" target="" tabindex="0" >Biography
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Photo-Gallery/igphoto/2001296303" target="" tabindex="0" >Portrait
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Transcripts/Customwho/31004" target="" tabindex="0" >Transcripts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.flickr.com/photos/thejointstaff/" target="_blank" tabindex="0" >Photos
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.dvidshub.net/feature/cjcsjosephdunford" target="_blank" tabindex="0" >Videos
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Special-Reports/Travels-with-the-Chairman/" target="" tabindex="0" >Travels
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+			<a href="https://www.defense.gov/Leaders/Vice-Chairman-of-the-Joint-Chiefs-of-Staff/" target="" tabindex="0" aria-expanded="false">Vice Chairman of the Joint Chiefs of Staff<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul  class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/About/Biographies/Biography-View/Article/602766/general-paul-j-selva" target="" tabindex="0" >Biography
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Photo-Gallery/igphoto/2001691188" target="" tabindex="0" >Portrait
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Transcripts/Customwho/31004" target="" tabindex="0" >Transcripts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.flickr.com/photos/vcjcs" target="_blank" tabindex="0" >Photos
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+
+    <li class="dropdown  top-level ">
+    
+        <a href="https://www.defense.gov/News/" tabindex="0" target="" aria-expanded="false">News<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Archive/" target="" tabindex="0" >News Archive
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Face-of-Defense/" target="" tabindex="0" >Face of Defense
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Press-Advisories/" target="" tabindex="0" >Press Advisories
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/News-Releases/" target="" tabindex="0" >News Releases
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Publications/" target="" tabindex="0" >Publications
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Transcripts/" target="" tabindex="0" >Transcripts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Speeches/" target="" tabindex="0" >Speeches
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.defense.gov/casualty.pdf" target="_blank" tabindex="0" >Casualty Status (PDF)
+</a>    
+    </li>
+
+    <li class="active dm  ">
+    
+			<a href="https://www.defense.gov/News/Contracts/" target="" tabindex="0" >Contracts
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.dodlive.mil/" target="_blank" tabindex="0" >DoD Live Blog
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/RSS/" target="" tabindex="0" >RSS
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/News/Other-News-Sources/" target="" tabindex="0" >Other News Sources
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+
+    <li class="dropdown  top-level ">
+    
+        <a href="https://www.defense.gov/Photos/" tabindex="0" target="" aria-expanded="false">Photos<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="http://www.defense.gov/Photos/Photo-Gallery?igcategory=Lead%20Photos" target="" tabindex="0" >Photo Gallery
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Photo-Essays/" target="" tabindex="0" >Photo Essays
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/Photos/Week-in-Photos/" target="" tabindex="0" >Week in Photos
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.dvidshub.net/search?filter%5btype%5d=image" target="_blank" tabindex="0" >DVIDS
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.flickr.com/photos/39955793@N07/" target="_blank" tabindex="0" >DoD Flickr
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://www.dimoc.mil/search/search.html" target="_blank" tabindex="0" >Imagery Archive
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+
+    <li class="dropdown  top-level ">
+    
+        <a href="https://www.defense.gov/Videos/" tabindex="0" target="" aria-expanded="false">Videos<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+			<a href="https://www.defense.gov/channel1/" target="" tabindex="0" >Live Events
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="http://defensetv.com/" target="_blank" tabindex="0" >Defense TV
+</a>    
+    </li>
+
+    <li class=" dm  ">
+    
+			<a href="https://www.dvidshub.net/search?filter[type]=video" target="_blank" tabindex="0" >DVIDS
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+
+    <li class=" top-level ">
+    
+        <a href="https://www.defense.gov/News/Special-Reports/" tabindex="0" target="" >Special Reports
+		</a>
+    
+    </li>
+
+
+
+</ul>
+</nav>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="search-menu hidden-sm hidden-xs">
+        <div class="container-fluid search-menu-inner">
+            <div class="skin-title">
+                <a href="https://www.defense.gov/" title="U.S. DEPARTMENT OF DEFENSE">
+                    <span class="title-text">U.S. Department of Defense</span>
+                </a>
+            </div>
+            <div class="skin-search">
+                <div class="skin-search-box">
+                    <label for="desktopSearch" class="visuallyhidden">Search Defense.gov: </label>
+                    <input type="text" name="desktopSearch" class="skin-search-input-ph" title="Search Defense.gov" />
+                    <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<p id="skip-target-holder"><a id="skip-target" name="skip-target" class="skip" tabindex="-1"></a></p>
+
+<div class="outer-wrapper">
+    <div class="container nopad">
+        <div id="dnn_CarouselPane" class="DNNEmptyPane"></div>
+    </div>
+    <div class="container">
+        
+
+<div class="skin-breadcrumb-container">
+  <span id="dnn_Breadcrumb_Breadcrumb_lblBreadCrumb" itemprop="breadcrumb" itemscope="" itemtype="https://schema.org/breadcrumb"><span itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.defense.gov/" class="skin-breadcrumb" itemprop="item" ><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></span><span class='fa fa-angle-right skin-breadcrumb-separator'></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.defense.gov/News/" class="skin-breadcrumb" itemprop="item"><span itemprop="name">News</span></a><meta itemprop="position" content="2" /></span><span class='fa fa-angle-right skin-breadcrumb-separator'></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.defense.gov/News/Contracts/" class="skin-breadcrumb" itemprop="item"><span itemprop="name">Contracts</span></a><meta itemprop="position" content="3" /></span></span></span>
+  <script type="text/javascript">
+    jQuery(".skin-breadcrumb-container a").last().removeAttr("href").css("text-decoration", "none");
+  </script>
+</div>
+
+    </div>
+    <div class="container">
+
+        <div class="row">
+            <div id="dnn_ContentPane" class="col-md-12"><div class="DnnModule DnnModule-DNN_HTML DnnModule-756"><a name="756"></a>
+<div class="ContainerWrapper">
+    <div class="dnnClear">       
+        <div id="dnn_ctr756_ContentPane" class="ContainerPane"><!-- Start_Module_756 --><div id="dnn_ctr756_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr756_HtmlModule_lblContent" class="Normal">
+	<h1 class="pageTitle">Contracts</h1>
+</div>
+
+</div><!-- End_Module_756 --></div>
+    </div>
+</div>
+
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-5362"><a name="5362"></a>
+<div class="ContainerWrapper">
+    <div class="dnnClear">       
+        <div id="dnn_ctr5362_ContentPane" class="ContainerPane"><!-- Start_Module_5362 --><div id="dnn_ctr5362_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr5362_HtmlModule_lblContent" class="Normal">
+	<style>
+    .descriptor {
+    display: block;
+    padding: 20px 30px 10px;
+    margin: 0px 0px 20px;
+    font-size: 16px;
+    color: #333333;
+    background: #edeff4;
+    }
+</style>
+<div class="descriptor">
+<p>Contracts valued at $7 million or more are announced each business day at 5 p.m. Go to <a href="/News">DoD News</a> for more information and for links to other news items.</p>
+</div>
+</div>
+
+</div><!-- End_Module_5362 --></div>
+    </div>
+</div>
+
+</div></div>
+        </div>
+
+        <div class="row">
+            <div id="dnn_ContentPaneLeft" class="col-md-9"><div class="DnnModule DnnModule-ArticleCS DnnModule-534"><a name="534"></a>
+<div class="ContainerWrapper">
+    <div class="dnnClear">       
+        <div id="dnn_ctr534_ContentPane" class="ContainerPane"><!-- Start_Module_534 --><div id="dnn_ctr534_ModuleContent" class="DNNModuleContent ModArticleCSC">
+	<div id="dnn_ctr534_Article_desktopmodules_articlecs_article_ascx_UpdatePanel1">
+		
+
+
+
+<div class="text-center">
+    <ul class="pagination">
+        
+        <li class="active">
+            <a href="https://www.defense.gov/News/Contracts/"><span>1</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=2"><span>2</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=3"><span>3</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=4"><span>4</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=5"><span>5</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=6"><span>6</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=7"><span>7</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=8"><span>8</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=9"><span>9</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=10"><span>10</span></a>
+        </li>
+        
+        <li class="disabled"><a href="#">...</a></li>
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=28"><span>28</span></a>
+        </li>
+        
+    </ul>
+</div>
+<div class="alist contract">
+    
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1349680/' > Contracts For Oct. 20, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1348379/' > Contracts For Oct. 19, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1347162/' > Contracts For Oct. 18, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1345796/' > Contracts For Oct. 17, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1344293/' > Contracts For Oct. 16, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1342405/' > Contracts For Oct. 13, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1341186/' > Contracts For Oct. 12, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1339719/' > Contracts For Oct. 11, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1338620/' > Contracts For Oct. 10, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1337169/' > Contracts For Oct. 6, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1335891/' > Contracts For Oct. 5, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1334567/' > Contracts For Oct. 4, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1333296/' > Contracts For Oct. 3, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1331599/' > Contracts For Oct. 2, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1330165/' > Contracts For Sept. 29, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1328736/' > Contracts For Sept. 28, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1327363/' > Contracts For Sept. 27, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1326276/' > Contracts For Sept. 26, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1323750/' > Contracts For Sept. 25, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1321878/' > Contracts For Sept. 22, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1320411/' > Contracts For Sept. 21, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1318702/' > Contracts For Sept. 20, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1316834/' > Contracts For Sept. 19, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1315123/' > Contracts For Sept. 18, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1313298/' > Contracts For Sept. 15, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1311548/' > Contracts For Sept. 14, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1309998/' > Contracts For Sept. 13, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1307800/' > Contracts For Sept. 12, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1306329/' > Contracts For Sept. 11, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="info">
+            <div class="info-bar">
+                <span class="date">
+                    
+            </div>
+            <div class="title">
+                <a href='https://www.defense.gov/News/Contracts/Contract-View/Article/1303900/' > Contracts For Sept. 8, 2017</a> 
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+<div class="text-center">
+    <ul class="pagination">
+        
+        <li class="active">
+            <a href="https://www.defense.gov/News/Contracts/"><span>1</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=2"><span>2</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=3"><span>3</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=4"><span>4</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=5"><span>5</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=6"><span>6</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=7"><span>7</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=8"><span>8</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=9"><span>9</span></a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=10"><span>10</span></a>
+        </li>
+        
+        <li class="disabled"><a href="#">...</a></li>
+        
+        <li>
+            <a href="https://www.defense.gov/News/Contracts/?Page=28"><span>28</span></a>
+        </li>
+        
+    </ul>
+</div>
+
+	
+	</div>
+
+
+
+
+
+</div><!-- End_Module_534 --></div>
+    </div>
+</div>
+
+</div></div>
+            <div id="dnn_RightPane" class="col-md-3"><div class="DnnModule DnnModule-ArticleCSDashboard DnnModule-758"><a name="758"></a>
+<div class="base-container blue-background">
+    <h2 class="title">
+        <span id="dnn_ctr758_dnnTitle_titleLabel" class="Head">Search Contracts</span>
+
+
+
+    </h2>
+    <div id="dnn_ctr758_ContentPane" class="content"><!-- Start_Module_758 --><div id="dnn_ctr758_ModuleContent" class="DNNModuleContent ModArticleCSDashboardC">
+	
+<div class='afilter'>
+    
+    <div class="form-group">
+        
+        
+        <input name="dnn$ctr758$Dashboard$keyword758" type="text" id="dnn_ctr758_Dashboard_keyword758" title="Keyword" class="form-control" />
+        <div style="padding-top:3px">
+            <input type="submit" name="dnn$ctr758$Dashboard$ctl00" value="Search" title="Search" class="btn btn-primary" />
+        </div>
+        
+    </div>
+    
+    <div class="form-group">
+        
+        <select name="dnn$ctr758$Dashboard$sort758" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;dnn$ctr758$Dashboard$sort758\&#39;,\&#39;\&#39;)&#39;, 0)" id="dnn_ctr758_Dashboard_sort758" title="Sort" class="form-control">
+		<option selected="selected" value="Recent">Recent</option>
+		<option value="Oldest">Oldest</option>
+		<option value="Title">Title A &gt; Z</option>
+		<option value="TitleZ">Title Z &gt; A</option>
+
+	</select>
+        
+        
+    </div>
+    
+</div>
+
+
+</div><!-- End_Module_758 --></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-2552"><a name="2552"></a>
+<div class="ContainerWrapper">
+    <div class="dnnClear">       
+        <div id="dnn_ctr2552_ContentPane" class="ContainerPane"><!-- Start_Module_2552 --><div id="dnn_ctr2552_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr2552_HtmlModule_lblContent" class="Normal">
+	<style>
+    .subscribeBttn {
+    display:block;
+    padding:10px 20px;
+    margin:0 0 25px;
+    background:#337ab7;
+    color:#fff !important;
+    text-align:center;
+    border-color:#2e6da4;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    }
+    .subscribeBttn:hover {
+    background:#286090;
+    }
+    .subscribeBttn span {
+    display:block;
+    font-size:18px;
+    margin-bottom:5px;
+    }
+</style>
+<a class="subscribeBttn" href="https://public.govdelivery.com/accounts/usdod/subscriber/new" target="_blank"><span>Subscribe Now</span> to receive Contracts</a>
+</div>
+
+</div><!-- End_Module_2552 --></div>
+    </div>
+</div>
+
+</div><div class="DnnModule DnnModule-ArticleCSDashboard DnnModule-757"><a name="757"></a>
+<div class="base-container blue-header">
+    <h2 class="title">
+        <span id="dnn_ctr757_dnnTitle_titleLabel" class="Head">Archive</span>
+
+
+
+    </h2>
+    <div id="dnn_ctr757_ContentPane"><!-- Start_Module_757 --><div id="dnn_ctr757_ModuleContent" class="DNNModuleContent ModArticleCSDashboardC">
+	
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2017/Month/10/'>October 2017 (14)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2017/Month/9/'>September 2017 (20)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2017/Month/8/'>August 2017 (23)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2017/Month/7/'>July 2017 (20)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2017/Month/6/'>June 2017 (22)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2017/Month/5/'>May 2017 (22)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2017/Month/4/'>April 2017 (20)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2017/Month/3/'>March 2017 (23)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2017/Month/2/'>February 2017 (19)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2017/Month/1/'>January 2017 (19)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/12/'>December 2016 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/11/'>November 2016 (20)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/10/'>October 2016 (20)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/9/'>September 2016 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/8/'>August 2016 (23)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/7/'>July 2016 (20)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/6/'>June 2016 (22)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/5/'>May 2016 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/4/'>April 2016 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/3/'>March 2016 (23)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/2/'>February 2016 (20)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2016/Month/1/'>January 2016 (17)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/12/'>December 2015 (22)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/11/'>November 2015 (19)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/10/'>October 2015 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/9/'>September 2015 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/8/'>August 2015 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/7/'>July 2015 (22)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/6/'>June 2015 (22)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/5/'>May 2015 (20)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/4/'>April 2015 (22)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/3/'>March 2015 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/2/'>February 2015 (18)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2015/Month/1/'>January 2015 (20)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2014/Month/12/'>December 2014 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2014/Month/11/'>November 2014 (18)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2014/Month/10/'>October 2014 (22)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2014/Month/9/'>September 2014 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2014/Month/8/'>August 2014 (21)</a><br />
+
+
+
+<a href='https://www.defense.gov/News/Contracts/Year/2014/Month/7/'>July 2014 (22)</a><br />
+
+
+
+
+</div><!-- End_Module_757 --></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-2164"><a name="2164"></a>
+<div class="ContainerWrapper">
+    <div class="dnnClear">       
+        <div id="dnn_ctr2164_ContentPane" class="ContainerPane"><!-- Start_Module_2164 --><div id="dnn_ctr2164_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr2164_HtmlModule_lblContent" class="Normal">
+	<a class="btn btn-primary" href="http://archive.defense.gov/contracts" target="_blank">Additional Archives</a>
+</div>
+
+</div><!-- End_Module_2164 --></div>
+    </div>
+</div>
+
+</div></div>
+        </div>
+        <div class="row">
+            <div id="dnn_EvenLeft" class="col-md-4 DNNEmptyPane"></div>
+            <div id="dnn_EvenMiddle" class="col-md-4 DNNEmptyPane"></div>
+            <div id="dnn_EvenRight" class="col-md-4 DNNEmptyPane"></div>
+        </div>
+        <div class="row">
+            <div id="dnn_SmallSideLeft" class="col-md-3 DNNEmptyPane"></div>
+            <div id="dnn_SmallSideMiddle" class="col-md-6 DNNEmptyPane"></div>
+            <div id="dnn_SmallSideRight" class="col-md-3 DNNEmptyPane"></div>
+        </div>
+        <div class="row">
+            <div id="dnn_LeftPane" class="col-md-3 DNNEmptyPane"></div>
+            <div id="dnn_ContentPaneRight" class="col-md-9 DNNEmptyPane"></div>
+        </div>
+        <div class="row">
+            <div id="dnn_BottomPane" class="col-md-12 DNNEmptyPane"></div>
+        </div>
+    </div>
+</div>
+
+
+<footer>
+    <div class="container-fluid footer-inner">
+        <div class="row">
+            <div class="col-lg-4 col-md-8 col-sm-7 col-xs-12 footer-pad-left">
+                <div class="hidden-sm hidden-xs">
+                    <h3>
+                        <span id="dnn_Footer_lblMissionTitle">MISSION</span></h3>
+                    <p class="subscribe">
+                        <span id="dnn_Footer_lblMissionText">The mission of the Department of Defense is to provide the military forces needed to deter war and to protect the security of our country. The department&#39;s headquarters is at the Pentagon.</span>
+                    </p>
+                </div>
+                <h3>
+                    <span id="dnn_Footer_lblSubscribeTitle">SUBSCRIBE NOW</span>
+
+                </h3>
+                <p class="subscribe">
+                    <span id="dnn_Footer_lblSubscribeText">Get the latest DoD News products delivered to your inbox.</span>
+                </p>
+                <a id="dnn_Footer_lnkSubscribe" class="subscribe-button" href="https://public.govdelivery.com/accounts/usdod/subscriber/new" target="_blank">Subscribe</a>
+            </div>
+            <div class="col-lg-5 hidden-md hidden-sm hidden-xs footer-pad-middle">
+                <div class="quick dept">
+                    
+        <h3>MILITARY DEPARTMENTS</h3>
+        <ul><li><a href="http://www.jcs.mil" title="Official Website of the Joint Chiefs of Staff" target="_blank"><img title="Official Website of the Joint Chiefs of Staff" src="/Portals/1/page-assets/homepage/sealJCS.png?ver=2016-09-22-153230-010" alt="Official Website of the Joint Chiefs of Staff" /><span class="text text-link-33">Joint Chiefs</span></a></li><li><a href="http://www.army.mil/" title="The Official Home Page of the United States Army" target="_blank"><img title="The Official Home Page of the United States Army" src="/Portals/1/page-assets/homepage/sealArmy.png?ver=2016-09-22-153230-027" alt="The Official Home Page of the United States Army" /><span class="text text-link-35">Army</span></a></li><li><a href="http://www.marines.mil/" title="The Official Website of the United States Marine Corps" target="_blank"><img title="The Official Website of the United States Marine Corps" src="/Portals/1/page-assets/homepage/sealMarines.png?ver=2016-09-22-153230-040" alt="The Official Website of the United States Marine Corps" /><span class="text text-link-36">Marine Corps</span></a></li><li><a href="http://www.navy.mil/" title="The Official Website of the United States Navy" target="_blank"><img title="The Official Website of the United States Navy" src="/Portals/1/page-assets/homepage/sealNavy.png?ver=2016-09-22-153230-120" alt="The Official Website of the United States Navy" /><span class="text text-link-37">Navy</span></a></li><li><a href="http://www.af.mil/" title="The Official Home Page of the United States Air Force" target="_blank"><img title="The Official Home Page of the United States Air Force" src="/Portals/1/page-assets/homepage/sealAirForce.png?ver=2016-09-22-153229-977" alt="The Official Home Page of the United States Air Force" /><span class="text text-link-38">Air Force</span></a></li><li><a href="http://www.uscg.mil/" title="The Official Home Page of the United States Coast Guard" target="_blank"><img title="The Official Home Page of the United States Coast Guard" src="/Portals/1/page-assets/homepage/sealCoastGuard.png?ver=2016-09-22-153230-027" alt="The Official Home Page of the United States Coast Guard" /><span class="text text-link-40">Coast Guard</span></a></li></ul>
+
+
+                </div>
+                <div class="quick">
+                    
+        <h3> UNIFIED COMBATANT COMMANDS</h3>
+        <ul><li><a href="http://www.africom.mil/" title="United States Africa Command Website" target="_blank"><img title="United States Africa Command Website" src="/Portals/1/page-assets/homepage/Africom.png?ver=2016-09-22-153217-010" alt="United States Africa Command Website" /><span class="text text-link-34">Africa Command</span></a></li><li><a href="http://www.centcom.mil/" title="United States Central Command Website" target="_blank"><img title="United States Central Command Website" src="/Portals/1/page-assets/homepage/centcom.png?ver=2016-09-22-153217-150" alt="United States Central Command Website" /><span class="text text-link-41">Central Command</span></a></li><li><a href="http://www.eucom.mil/" title="United States European Command Website" target="_blank"><img title="United States European Command Website" src="/Portals/1/page-assets/homepage/eucom.png?ver=2016-09-22-153217-243" alt="United States European Command Website" /><span class="text text-link-42">European Command</span></a></li><li><a href="http://www.northcom.mil/" title="United States Northern Command Website" target="_blank"><img title="United States Northern Command Website" src="/Portals/1/page-assets/homepage/northcom.png?ver=2016-09-22-153217-353" alt="United States Northern Command Website" /><span class="text text-link-43">Northern Command</span></a></li><li><a href="http://www.pacom.mil/" title="United States Pacific Command Website" target="_blank"><img title="United States Pacific Command Website" src="/Portals/1/page-assets/homepage/paccom.png?ver=2016-09-22-153217-493" alt="United States Pacific Command Website" /><span class="text text-link-44">Pacific Command</span></a></li><li><a href="http://www.southcom.mil/" title="United States Southern Command Website" target="_blank"><img title="United States Southern Command Website" src="/Portals/1/page-assets/homepage/southcom.png?ver=2016-09-22-153217-463" alt="United States Southern Command Website" /><span class="text text-link-45">Southern Command</span></a></li><li><a href="http://www.socom.mil/" title="United States Special Operations Command Website" target="_blank"><img title="United States Special Operations Command Website" src="/Portals/1/page-assets/homepage/socom.png?ver=2016-09-22-153217-527" alt="United States Special Operations Command Website" /><span class="text text-link-46">Special Operations Command</span></a></li><li><a href="http://www.stratcom.mil/" title="United States Strategic Command Website" target="_blank"><img title="United States Strategic Command Website" src="/Portals/1/page-assets/homepage/StratCom.png?ver=2016-09-22-153217-527" alt="United States Strategic Command Website" /><span class="text text-link-47">Strategic Command</span></a></li><li><a href="http://www.ustranscom.mil/" title="United States Transportation Command Website" target="_blank"><img title="United States Transportation Command Website" src="/Portals/1/page-assets/homepage/transcom.png?ver=2016-09-22-153217-590" alt="United States Transportation Command Website" /><span class="text text-link-48">Transportation Command</span></a></li></ul>
+
+
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-5 col-xs-12 footer-pad-right">
+                <div class="connect">
+                    <div class="visible-xs">
+                        <hr />
+                    </div>
+                    
+        <h3>Connect</h3>
+        <ul><li><a href="https://twitter.com/DeptofDefense" title="Follow Us On Twitter" target="_blank"><span class="social-icon fa fa-twitter social-link-2"></span><span class="text text-link-2">Twitter</span></a></li><li><a href="https://www.facebook.com/DeptofDefense" title="Follow Us On Facebook" target="_blank"><span class="social-icon fa fa-facebook social-link-1"></span><span class="text text-link-1">Facebook</span></a></li><li><a href="https://www.flickr.com/photos/39955793@N07/" title="Follow Us On Flickr" target="_blank"><span class="social-icon fa fa-flickr social-link-4"></span><span class="text text-link-4">Flickr</span></a></li><li><a href="https://www.linkedin.com/company/united-states-department-of-defense" title="Join us on LinkedIn" target="_blank"><span class="social-icon fa fa-linkedin social-link-15"></span><span class="text text-link-15">LinkedIn</span></a></li><li><a href="https://instagram.com/deptofdefense" title="Follow us on Instagram" target="_blank"><span class="social-icon fa fa-instagram social-link-11"></span><span class="text text-link-11">Instagram</span></a></li><li><a href="https://www.youtube.com/deptofdefense" title="Follow Us On YouTube" target="_blank"><span class="social-icon fa fa-youtube social-link-3"></span><span class="text text-link-3">YouTube</span></a></li><li><a href="http://defensetv.tv" title="Follow us on DefenseTV" target="_blank"><span class="social-icon fa fa-play-circle-o social-link-5"></span><span class="text text-link-5">DefenseTV</span></a></li><li><a href=" https://www.dvidshub.net/" title="Watch videos on DVIDS" target="_blank"><span class="social-icon fa fa-video-camera social-link-13"></span><span class="text text-link-13">DVIDS</span></a></li><li><a href="http://www.dodlive.mil/" title="Read blogs on DoDLive " target="_blank"><span class="social-icon fa fa-comments social-link-7"></span><span class="text text-link-7">Blogs</span></a></li><li><a href="/News/RSS" title="Subscribe to DoD RSS Feeds"><span class="social-icon fa fa-rss social-link-8"></span><span class="text text-link-8">RSS</span></a></li><li><a href="/Resources/Contact-DoD" title="Contact the DoD"><span class="social-icon fa fa-address-book-o social-link-6"></span><span class="text text-link-6">Contact</span></a></li><li><a href="https://public.govdelivery.com/accounts/usdod/subscriber/new" title="Subscribe to DoD News Products" target="_blank"><span class="social-icon fa fa-envelope social-link-10"></span><span class="text text-link-10">Subscribe</span></a></li></ul>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="position: relative">
+        <div class="seal-bar">
+        </div>
+        <div class="footer-seal">
+            <a href="https://www.defense.gov/">
+                <img src="/portals/_default/skins/DefenseGOV/Resources/img/seal.svg" alt="U.S. DEPARTMENT OF DEFENSE" title="U.S. DEPARTMENT OF DEFENSE" />
+            </a>
+        </div>
+        <div class="footer-nav hidden-sm hidden-xs">
+            <div class="container">
+                <ul><li><a href="/Resources/Privacy" title="Details about DoD&#39;s privacy policy, the use of &quot;cookies&quot; and third party websites and applications."><span class="text text-link-55">Privacy & Security</span></a></li><li><a href="/Resources/External-Link-Disclaimer" title="A description of the external links disclaimer for defense.gov."><span class="text text-link-56">Links Disclaimer</span></a></li><li><a href="http://www.dodig.mil/" title="The website of the Office of the Inspector General. " target="_blank"><span class="text text-link-57">Inspector General</span></a></li><li><a href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" title="Details about making information accessible to individuals with disabilities in accordance with Section 508 of the Rehabilitation Act." target="_blank"><span class="text text-link-58">Section 508</span></a></li><li><a href="http://www.dimoc.mil/resources/limitations.html" title="Policies for use of DoD imagery. " target="_blank"><span class="text text-link-59">Imagery Use</span></a></li><li><a href="http://open.defense.gov/Transparency/FOIA.aspx" title="Details about the Freedom of Information Act. " target="_blank"><span class="text text-link-60">FOIA</span></a></li><li><a href="http://prhome.defense.gov/NoFear/" title="Details about DoD&#39;s No FEAR Act. "><span class="text text-link-67">No FEAR Act</span></a></li></ul><ul><li><a href="http://dodcio.defense.gov/DoD-Web-Policy/" title="Details on DoD&#39;s web and internet based policies and procedures." target="_blank"><span class="text text-link-61">Web Policy</span></a></li><li><a href="http://www.esd.whs.mil/DD/ " title="A description of the DoD plain language policy. " target="_blank"><span class="text text-link-62">Plain Writing Act</span></a></li><li><a href="http://open.defense.gov/" title="Details about DoD&#39;s open government plan. " target="_blank"><span class="text text-link-63">Open GOV</span></a></li><li><a href="http://dcmo.defense.gov/Portals/47/Documents/Publications/ASP/FY2016_2018ASP.pdf" title="PDF of DoD&#39;s strategic plan 2015-2018" target="_blank"><span class="text text-link-64">Strategic Plan</span></a></li><li><a href="http://www.acq.osd.mil/osbp/" title="Information from the DoD Office of Small Business Programs. " target="_blank"><span class="text text-link-65">Small Business Act</span></a></li><li><a href="/Site-Index" title="The page structure for the defense.gov website."><span class="text text-link-66">Site Map</span></a></li></ul>
+
+
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" />
+        
+    </form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=613)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=613)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=613)--><!--CDF(Css|/Portals/_default/Skins/DefenseGOV/skin.css?cdv=613)--><!--CDF(Css|/Portals/_default/Containers/DefenseGOV/container.css?cdv=613)--><!--CDF(Css|/Portals/_default/Containers/DefenseGOV/container.css?cdv=613)--><!--CDF(Css|/Portals/_default/Containers/DefenseGOV/container.css?cdv=613)--><!--CDF(Css|/DesktopModules/ArticleCS/module.css?cdv=613)--><!--CDF(Css|/DesktopModules/ArticleCS/module.css?cdv=613)--><!--CDF(Css|/Portals/_default/Containers/DefenseGOV/container.css?cdv=613)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=613)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=613)--><!--CDF(Css|/Portals/_default/Containers/DefenseGOV/container.css?cdv=613)--><!--CDF(Css|/Portals/_default/Containers/DefenseGOV/container.css?cdv=613)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=613)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=613)--><!--CDF(Css|/Portals/_default/Containers/DefenseGOV/container.css?cdv=613)--><!--CDF(Css|/Portals/1/portal.css?cdv=613)--><!--CDF(Javascript|/DesktopModules/SharedLibrary/Plugins/sidr/jquery.sidr.js?cdv=613)--><!--CDF(Css|/DesktopModules/SharedLibrary/Plugins/sidr/stylesheets/jquery.sidr.bare.css?cdv=613)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=613)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=613)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=613)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=613)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=613)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=613)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/DefenseGOV/style.css?cdv=613)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/DefenseGOV/style.css?cdv=613)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/DefenseGOV/style.css?cdv=613)--><!--CDF(Javascript|/DesktopModules/ArticleCS/ArticleCS.js?cdv=613)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/DefenseGOV/style.css?cdv=613)--><!--CDF(Javascript|/DesktopModules/ArticleCS/ArticleCS.js?cdv=613)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=613)--><!--CDF(Javascript|/Resources/libraries/jQuery/01_09_01/jquery.js?cdv=613)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/01_02_01/jquery-migrate.js?cdv=613)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_11_03/jquery-ui.js?cdv=613)-->
+    
+</body>
+</html>

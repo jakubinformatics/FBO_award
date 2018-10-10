@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89f76943-03c1-43d8-9503-84dbb0234af8" name="Default Changelist" comment="update script" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@main.rcov" NAME="main Coverage Results" MODIFIED="1538769839156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@dod_service.rcov" NAME="dod_service Coverage Results" MODIFIED="1538769702998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@a_DOD_contract_can_return_the_bureau__DOD_Award_Feed.rcov" NAME="a DOD contract can return the bureau: DOD-Award-Feed Coverage Results" MODIFIED="1536802110753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@dod_award_feed.rcov" NAME="dod_award_feed Coverage Results" MODIFIED="1536811966668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/FBO_Award_Feed@get_previous_data.rcov" NAME="get_previous_data Coverage Results" MODIFIED="1539121722509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/FBO_Award_Feed@main.rcov" NAME="main Coverage Results" MODIFIED="1539126476133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@a_DOD_article_can_pass_the_correct_award_date_to_contract__DOD_Award_Feed.rcov" NAME="a DOD article can pass the correct award_date to contract: DOD-Award-Feed Coverage Results" MODIFIED="1536800887088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@a_DOD_article_can_attach_the_correct_bureau_to_a_contract__DOD_Award_Feed.rcov" NAME="a DOD article can attach the correct bureau to a contract: DOD-Award-Feed Coverage Results" MODIFIED="1536801658955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@Run_spec__dod_award_feed_spec___DOD_Award_Feed.rcov" NAME="Run spec 'dod_award_feed_spec': DOD-Award-Feed Coverage Results" MODIFIED="1536862778396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@IRB_console__DOD_Award_Feed.rcov" NAME="IRB console: DOD-Award-Feed Coverage Results" MODIFIED="1537106325366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@a_DOD_article__DOD_Award_Feed.rcov" NAME="a DOD article: DOD-Award-Feed Coverage Results" MODIFIED="1536861553126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@get_previous_data.rcov" NAME="get_previous_data Coverage Results" MODIFIED="1536948322669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@a_DOD_article_list__DOD_Award_Feed.rcov" NAME="a DOD article list: DOD-Award-Feed Coverage Results" MODIFIED="1536861545209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@the_DODAwardFeed_program_can_use_the_ids_of_an_article_list_to_request_and_build_an_article_by_date__DOD_Award_Feed.rcov" NAME="the DODAwardFeed program can use the ids of an article list to request and build an article by date: DOD-Award-Feed Coverage Results" MODIFIED="1536803073369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@the_DODAwardFeed_program_can_request_and_build_an_article_list_that_can_supply_ids__DOD_Award_Feed.rcov" NAME="the DODAwardFeed program can request and build an article list that can supply ids: DOD-Award-Feed Coverage Results" MODIFIED="1536802811635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@article_paragraph.rcov" NAME="article_paragraph Coverage Results" MODIFIED="1536844516360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@a_DOD_article_paragraph_can_identify_a_contract__DOD_Award_Feed.rcov" NAME="a DOD article paragraph can identify a contract: DOD-Award-Feed Coverage Results" MODIFIED="1536861550097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+    <SUITE FILE_PATH="coverage/DOD_Award_Feed@a_DOD_contract_can_return_the_relevant_attributes__DOD_Award_Feed.rcov" NAME="a DOD contract can return the relevant attributes: DOD-Award-Feed Coverage Results" MODIFIED="1536861563497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DOD-Award-Feed" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dod_award_contracts@13.56.168.232" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dod_award_contracts@13.56.168.232" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fbo@13.56.168.232" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fbo@13.56.168.232" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fbo@13.56.168.232" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="fbo: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-332569409">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.19" value="4" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.331" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Gemfile" value="2" />
+          <entry key="contracts" value="114" />
+          <entry key="corrections" value="10" />
+          <entry key="dod_idiqs" value="44" />
+          <entry key="env" value="4" />
+          <entry key="html" value="9" />
+          <entry key="json" value="4" />
+          <entry key="log" value="3" />
+          <entry key="md" value="1" />
+          <entry key="parent" value="1" />
+          <entry key="rb" value="125" />
+          <entry key="rb___jb_tmp___" value="1" />
+          <entry key="rdebug-ide" value="1" />
+          <entry key="sh" value="3" />
+          <entry key="sql" value="38" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="169" />
+          <entry key="HTML" value="9" />
+          <entry key="JSON" value="4" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Ruby" value="128" />
+          <entry key="SQL" value="5" />
+          <entry key="Scratch" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Gemfile" value="12" />
+          <entry key="Ruby Console" value="425" />
+          <entry key="cell" value="3" />
+          <entry key="env" value="34" />
+          <entry key="md" value="1" />
+          <entry key="rb" value="1779" />
+          <entry key="sql" value="66" />
+          <entry key="txt" value="47" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="RegExp" value="1" />
+          <entry key="Ruby" value="2215" />
+          <entry key="Scratch" value="69" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1988820918">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="env" value="1" />
+          <entry key="fbo_awards" value="14" />
+          <entry key="log" value="5" />
+          <entry key="rb" value="25" />
+          <entry key="rdebug-ide" value="1" />
+          <entry key="sql" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="14" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Ruby" value="26" />
+          <entry key="Scratch" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="env" value="6" />
+          <entry key="log" value="2" />
+          <entry key="rb" value="1317" />
+          <entry key="sql" value="3" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Ruby" value="1317" />
+          <entry key="Scratch" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1571119350">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="2" />
+          <entry key="Gemfile" value="1" />
+          <entry key="env" value="1" />
+          <entry key="fbo_awards" value="2" />
+          <entry key="rb" value="2" />
+          <entry key="sql" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="2" />
+          <entry key="Dockerfile" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Ruby" value="3" />
+          <entry key="Scratch" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="6" />
+          <entry key="env" value="1" />
+          <entry key="txt" value="10" />
+          <entry key="yml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Dockerfile" value="6" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="YAML" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://76d1562e-c94b-4466-b883-f36f8e03067b/schema/fbo/table/fbo_awards">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mysql2-0.4.9-x64-mingw32/lib/mysql2/client.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_previous_data.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dod_service.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dd1d7c98-d9b8-4795-a649-486730c169dc/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>semi_column_matcher</find>
+      <find>order_on_previously_issued</find>
+      <find>awarded</find>
+      <find>potentiala</find>
+      <find>when_matched</find>
+      <find>CORRECTIon</find>
+      <find>award_date</find>
+      <find>all_text</find>
+      <find>potential_value</find>
+      <find>poten</find>
+      <find>format_date</find>
+      <find>EndDate</find>
+      <find>as of</find>
+      <find>expiration</find>
+      <find>format_d</find>
+      <find>dup_idx</find>
+      <find>get_article</find>
+      <find>ArticleIdentifier</find>
+      <find>get_article_published_on</find>
+      <find>prepare_article_published_on</find>
+      <find>get_latest_article</find>
+      <find>prepare_latest_article</find>
+      <find>contracts</find>
+      <find>paragraphs</find>
+      <find>@award_date</find>
+      <find>contract</find>
+      <find>@contract_generator</find>
+      <find>Article</find>
+      <find>article_generator</find>
+      <find>@document</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/491aa6c7-7b0b-43bd-a3a8-d7c528e8b67f/console.sql" />
+        <option value="$PROJECT_DIR$/src/article_paragraph.rb" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ca928ee7-39be-43f4-baa4-a03eeecb3a95/console_1.sql" />
+        <option value="$PROJECT_DIR$/src/matchers.rb" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/491aa6c7-7b0b-43bd-a3a8-d7c528e8b67f/console_1.sql" />
+        <option value="$PROJECT_DIR$/src/dod_service.rb" />
+        <option value="$PROJECT_DIR$/src/dod_award_feed.rb" />
+        <option value="$PROJECT_DIR$/log/error.log" />
+        <option value="$PROJECT_DIR$/log/activity.log" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ca928ee7-39be-43f4-baa4-a03eeecb3a95/console.sql" />
+        <option value="$PROJECT_DIR$/main.rb" />
+        <option value="$PROJECT_DIR$/src/contract.rb" />
+        <option value="$PROJECT_DIR$/src/article.rb" />
+        <option value="$PROJECT_DIR$/src/article_list.rb" />
+        <option value="$PROJECT_DIR$/get_previous_data.rb" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="1" />
+    <option name="width" value="1022" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FBO-Award-Feed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBO-Award-Feed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBO-Award-Feed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBO-Award-Feed" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBO-Award-Feed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBO-Award-Feed" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tiger\Documents\workspace\DOD-Award-Feed\spec\examples\articles" />
+      <recent name="C:\Users\Tiger\Documents\workspace\DOD-Award-Feed" />
+      <recent name="C:\Users\Tiger\Documents\workspace\DOD-Award-Feed\spec\examples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Ruby.main">
+    <configuration name="IRB console: DOD-Award-Feed" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+      <module name="DOD-Award-Feed" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$APPLICATION_HOME_DIR$/rb/testing/runner/irb.rb" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--prompt simple" />
+      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run spec 'dod_award_feed_spec': DOD-Award-Feed" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="DOD-Award-Feed" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/dod_award_feed_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dod_service" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="DOD-Award-Feed" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/dod_service.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_previous_data" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="DOD-Award-Feed" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/get_previous_data.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="DOD-Award-Feed" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/main.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="RSpec.Run spec 'dod_award_feed_spec': DOD-Award-Feed" />
+      <item itemvalue="Ruby.main" />
+      <item itemvalue="Ruby.get_previous_data" />
+      <item itemvalue="IRB console.IRB console: DOD-Award-Feed" />
+      <item itemvalue="Ruby.dod_service" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.main" />
+        <item itemvalue="Ruby.get_previous_data" />
+        <item itemvalue="Ruby.dod_service" />
+        <item itemvalue="IRB console.IRB console: DOD-Award-Feed" />
+        <item itemvalue="IRB console.IRB console: DOD-Award-Feed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89f76943-03c1-43d8-9503-84dbb0234af8" name="Default Changelist" comment="" />
+      <created>1536797829560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536797829560</updated>
+      <workItem from="1536797832344" duration="678000" />
+      <workItem from="1536798556413" duration="9986000" />
+      <workItem from="1536811401775" duration="807000" />
+      <workItem from="1536814283613" duration="2916000" />
+      <workItem from="1536842645644" duration="10805000" />
+      <workItem from="1536856883579" duration="21544000" />
+      <workItem from="1536884600736" duration="301000" />
+      <workItem from="1536897445144" duration="3313000" />
+      <workItem from="1536936210807" duration="1135000" />
+      <workItem from="1536937636973" duration="7079000" />
+      <workItem from="1536945433693" duration="3458000" />
+      <workItem from="1536950434087" duration="1616000" />
+      <workItem from="1536960529585" duration="1760000" />
+      <workItem from="1536988969726" duration="320000" />
+      <workItem from="1537021090230" duration="617000" />
+      <workItem from="1537078721538" duration="7813000" />
+      <workItem from="1537130459574" duration="1522000" />
+      <workItem from="1537193523152" duration="2654000" />
+      <workItem from="1537214846406" duration="4193000" />
+      <workItem from="1537287091295" duration="200000" />
+      <workItem from="1537483136510" duration="22000" />
+      <workItem from="1538768587833" duration="1913000" />
+      <workItem from="1538770757439" duration="6064000" />
+      <workItem from="1538780725912" duration="416000" />
+      <workItem from="1538784683430" duration="10451000" />
+      <workItem from="1538912457594" duration="93000" />
+      <workItem from="1539119841365" duration="5077000" />
+    </task>
+    <task id="LOCAL-00001" summary="update script">
+      <created>1536884156988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536884156988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update script">
+      <created>1536948317238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536948317238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update script">
+      <created>1537131363629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537131363629</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update script for url changed issue">
+      <created>1538769885684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538769885684</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="the_DODAwardFeed_program_can_request_and_build_an_article_list_that_can_supply_ids__DOD-Award-Feed - 2018.09.12 at 18h 39m 32s.xml">
+      <configuration name="the DODAwardFeed program can request and build an article list that can supply ids: DOD-Award-Feed" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="the_DODAwardFeed_program_can_request_and_build_an_article_list_that_can_supply_ids__DOD-Award-Feed - 2018.09.12 at 18h 39m 42s.xml">
+      <configuration name="the DODAwardFeed program can request and build an article list that can supply ids: DOD-Award-Feed" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="the_DODAwardFeed_program_can_request_and_build_an_article_list_that_can_supply_ids__DOD-Award-Feed - 2018.09.12 at 18h 40m 34s.xml">
+      <configuration name="the DODAwardFeed program can request and build an article list that can supply ids: DOD-Award-Feed" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="the_DODAwardFeed_program_can_use_the_ids_of_an_article_list_to_request_and_build_an_article_by_date__DOD-Award-Feed - 2018.09.12 at 18h 45m 43s.xml">
+      <configuration name="the DODAwardFeed program can use the ids of an article list to request and build an article by date: DOD-Award-Feed" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_DOD_article_list__DOD-Award-Feed - 2018.09.13 at 10h 59m 06s.xml">
+      <configuration name="a DOD article list: DOD-Award-Feed" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_DOD_article_paragraph_can_identify_a_contract__DOD-Award-Feed - 2018.09.13 at 10h 59m 10s.xml">
+      <configuration name="a DOD article paragraph can identify a contract: DOD-Award-Feed" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_DOD_article__DOD-Award-Feed - 2018.09.13 at 10h 59m 13s.xml">
+      <configuration name="a DOD article: DOD-Award-Feed" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_DOD_contract_can_return_the_relevant_attributes__DOD-Award-Feed - 2018.09.13 at 10h 59m 24s.xml">
+      <configuration name="a DOD contract can return the relevant attributes: DOD-Award-Feed" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'dod_award_feed_spec'__DOD-Award-Feed - 2018.09.13 at 10h 59m 27s.xml">
+      <configuration name="Run spec 'dod_award_feed_spec': DOD-Award-Feed" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'dod_award_feed_spec'__DOD-Award-Feed - 2018.09.13 at 11h 19m 38s.xml">
+      <configuration name="Run spec 'dod_award_feed_spec': DOD-Award-Feed" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106753000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20895523" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.30076003" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.31378937" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29641694" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.2019544" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.2196162" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update script" />
+    <MESSAGE value="update script for url changed issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="update script for url changed issue" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="RubyRunConfigurationType">
+        <watch expression="line.css(&quot;td[headers='lh_base_type']&quot;)[0].text()" language="ruby" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>dollars = source_text.scan(/\$[\d,]+/)</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dollars = source_text.scan(/$[\d,]+/).map { |num_str| num_str.split(',').join('').to_i }</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>line.css(&quot;td[headers='lh_base_type']&quot;)[0].text()</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>text.gsub(/[[:space:]]/, '')</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>text.gsub(/\u00a0/, '')</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;ASD WQD   &quot;.match(bureau_matcher)</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;ASD WQD &quot;.match(bureau_matcher)</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>text</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>text.match(bureau_matcher)</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>text.force_encoding('ISO-8859-1').encode('UTF-8')</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>text.force_encoding('ISO-8859-1').encode('UTF-8').encoding</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>text.encode('utf-8', :invalid =&gt; :replace, :undef =&gt; :replace)</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>contract.contract_dollar_amount.match(Article.amount_math)['amount'].scan(/[.0-9]/).join().to_f</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contract.contract_dollar_amount.match(Article.amount_math)['amount'].scan(/[.0-9]/).join().to_i</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>amount.scan(/[.0-9]/).join().to_f</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>amount</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>amount.to_i</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contract.contract_dollar_amount.match(Article.amount_math)['amo']</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contract.contract_dollar_amount.match(Article.amount_math)</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contract.contract_dollar_amount.match(Article.amount_math</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contract.contract_dollar_amount</expression-string>
+        <language-id>ruby</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spec/article_paragraph_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dod_award_contracts_corrections.sql" />
+    <entry file="file://$USER_HOME$/dump.sql" />
+    <entry file="file://$PROJECT_DIR$/spec/dod_award_feed_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="111" column="6" selection-start-line="111" selection-start-column="6" selection-end-line="111" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ca928ee7-39be-43f4-baa4-a03eeecb3a95/schema/dod_award_contracts/table/corrections" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ca928ee7-39be-43f4-baa4-a03eeecb3a95/console_1.sql" />
+    <entry file="das://ca928ee7-39be-43f4-baa4-a03eeecb3a95/schema/dod_award_contracts/table/dod_idiqs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/491aa6c7-7b0b-43bd-a3a8-d7c528e8b67f/console_1.sql" />
+    <entry file="file://$PROJECT_DIR$/daily.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://491aa6c7-7b0b-43bd-a3a8-d7c528e8b67f/schema/dod_award_contracts/table/corrections" />
+    <entry file="das://491aa6c7-7b0b-43bd-a3a8-d7c528e8b67f/schema/dod_award_contracts/table/parent" />
+    <entry file="das://491aa6c7-7b0b-43bd-a3a8-d7c528e8b67f/schema/dod_award_contracts/table/dod_idiqs" />
+    <entry file="das://ca928ee7-39be-43f4-baa4-a03eeecb3a95/schema/dod_award_contracts/table/contracts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://491aa6c7-7b0b-43bd-a3a8-d7c528e8b67f/schema/dod_award_contracts/table/contracts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/article_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/76d1562e-c94b-4466-b883-f36f8e03067b/console.sql" />
+    <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.7.0.beta6/lib/ruby-debug-ide.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="115" column="31" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/article_paragraph.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.7.0.beta6/bin/rdebug-ide">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="182" column="30" lean-forward="true" selection-start-line="182" selection-start-column="30" selection-end-line="182" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ca928ee7-39be-43f4-baa4-a03eeecb3a95/console.sql" />
+    <entry file="file://$PROJECT_DIR$/src/logger.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/matchers.rb" />
+    <entry file="file://$PROJECT_DIR$/src/dod_award_feed.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="2" selection-start-column="116" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/past_data.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/activity.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ca928ee7-39be-43f4-baa4-a03eeecb3a95/schema/fbo/table/fbo_awards">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/article_list.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contract.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/article.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://76d1562e-c94b-4466-b883-f36f8e03067b/schema/fbo/table/fbo_awards">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/mysql2-0.4.9-x64-mingw32/lib/mysql2/client.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_previous_data.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dd1d7c98-d9b8-4795-a649-486730c169dc/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dod_service.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
