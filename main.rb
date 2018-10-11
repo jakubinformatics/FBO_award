@@ -10,9 +10,14 @@ database = Mysql2::Client.new(
   :password => ENV['DB_PASSWORD']
 )
 
-feed = DODAwardFeed.new
-feed.prepare_article_list
-feed.prepare_latest_article
-feed.save_contracts(database)
+logger = Logger.new('past_data.log')
+# feed = DODAwardFeed.new
+# feed.prepare_article_list
+# feed.prepare_latest_article
+# feed.save_contracts(database) if feed.prepare_article_published_on('Oct 11, 2018')
+1.upto(60).each do |page|
+  feed = DODAwardFeed.new
+  feed.prepare_article_list_by_page(page, database, logger, date=Date.today)
+end
 
 database.close

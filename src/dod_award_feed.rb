@@ -17,10 +17,10 @@ class DODAwardFeed
     @article_list = article_list_generator.new(document, service)
   end
 
-  def prepare_article_list_by_page(page, database, logger)
+  def prepare_article_list_by_page(page, database, logger, date=nil)
     document = service.get_article_list_by_page(page)
     @article_list = article_list_generator.new(document, service)
-    articles = article_list.get_all_articles
+    articles = article_list.get_all_articles(date)
     articles.each do |article|
       article.save(database, logger)
     end
